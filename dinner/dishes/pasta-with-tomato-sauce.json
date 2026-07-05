@@ -10,13 +10,19 @@
       "id": "pasta",
       "name": "pasta",
       "amount": 500,
-      "unit": "g"
+      "unit": "g",
+      "knuspr": {
+        "preferred_query": "Spaghetti 500 g"
+      }
     },
     {
       "id": "tomato_sauce",
       "name": "tomato sauce",
       "amount": 1,
-      "unit": "can"
+      "unit": "can",
+      "knuspr": {
+        "preferred_query": "Tomatensauce Klassik"
+      }
     }
   ],
   "tags": [

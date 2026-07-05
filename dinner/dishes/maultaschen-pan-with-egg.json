@@ -10,13 +10,19 @@
       "id": "maultaschen",
       "name": "maultaschen",
       "amount": 12,
-      "unit": "piece"
+      "unit": "piece",
+      "knuspr": {
+        "preferred_query": "Bürger Gemüsemaultaschen"
+      }
     },
     {
       "id": "egg",
       "name": "egg",
       "amount": 4,
-      "unit": "piece"
+      "unit": "piece",
+      "knuspr": {
+        "preferred_query": "Eier 6er"
+      }
     }
   ],
   "optional_ingredients": [

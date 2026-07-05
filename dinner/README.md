@@ -28,3 +28,27 @@ Keep ingredient `id` values stable and boring, for example:
 - `yellow_onion`
 
 Avoid vague ingredients like `tomatoes` unless that is really what you mean.
+
+## Optional Knuspr Metadata
+
+Dish files may add an optional `knuspr` object per ingredient to store shopping hints.
+
+Supported patterns:
+
+- `preferred_query`: the preferred Knuspr search phrase for a concrete product choice
+- `ask_user`: set to `true` when the ingredient is intentionally ambiguous and the agent must ask before adding anything
+- `options`: explicit user-facing alternatives for ambiguous ingredients
+
+Example:
+
+```json
+{
+  "id": "maultaschen",
+  "name": "maultaschen",
+  "amount": 12,
+  "unit": "piece",
+  "knuspr": {
+    "preferred_query": "Bürger Gemüsemaultaschen"
+  }
+}
+```

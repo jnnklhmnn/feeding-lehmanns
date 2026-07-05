@@ -10,37 +10,65 @@
       "id": "tortilla_wrap",
       "name": "tortilla wrap",
       "amount": 8,
-      "unit": "piece"
+      "unit": "piece",
+      "knuspr": {
+        "preferred_query": "OLD EL PASO Tortillas Flour 8 Stück"
+      }
     },
     {
       "id": "halloumi",
       "name": "halloumi",
       "amount": 200,
-      "unit": "g"
+      "unit": "g",
+      "knuspr": {
+        "preferred_query": "Salakis Tradition Halloumi"
+      }
     },
     {
       "id": "lettuce",
       "name": "lettuce",
       "amount": 1,
-      "unit": "head"
+      "unit": "head",
+      "knuspr": {
+        "preferred_query": "Eisbergsalat"
+      }
     },
     {
       "id": "cucumber",
       "name": "cucumber",
       "amount": 1,
-      "unit": "piece"
+      "unit": "piece",
+      "knuspr": {
+        "preferred_query": "Gurke"
+      }
     },
     {
       "id": "tomato",
       "name": "tomato",
       "amount": 3,
-      "unit": "piece"
+      "unit": "piece",
+      "knuspr": {
+        "preferred_query": "Rispentomaten"
+      }
     },
     {
-      "id": "wrap_sauce",
-      "name": "yogurt sauce or hummus",
+      "id": "wrap_sauce_choice",
+      "name": "greek yogurt or hummus",
       "amount": 200,
-      "unit": "g"
+      "unit": "g",
+      "knuspr": {
+        "ask_user": true,
+        "options": [
+          {
+            "label": "griechischer Naturjoghurt",
+            "preferred_query": "griechischer Naturjoghurt"
+          },
+          {
+            "label": "Hummus",
+            "preferred_query": "Hummus"
+          }
+        ]
+      }
     }
   ],
   "tags": [
@@ -48,5 +76,5 @@
     "vegetarian",
     "assemble"
   ],
-  "notes": "Use one 200 g pack of halloumi. Sauce can be yogurt sauce or hummus."
+  "notes": "Use one 200 g pack of halloumi. If the sauce choice is yogurt, use Greek plain yogurt rather than premade yogurt sauce."
 }

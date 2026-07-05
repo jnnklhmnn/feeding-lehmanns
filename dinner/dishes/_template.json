@@ -10,7 +10,12 @@
       "id": "ingredient_id",
       "name": "ingredient name",
       "amount": 0,
-      "unit": "g"
+      "unit": "g",
+      "knuspr": {
+        "preferred_query": "search phrase here",
+        "ask_user": false,
+        "options": []
+      }
     }
   ],
   "optional_ingredients": [],
