@@ -47,6 +47,47 @@ Keep ingredient `id` values stable and boring, for example:
 
 Avoid vague ingredients like `tomatoes` unless that is really what you mean.
 
+## TTS With Piper
+
+This repo can generate German and English meal audio from the trusted dinner data.
+
+Files:
+
+- `tts_generate.py`: CLI for audio generation
+- `tts_config.json`: local Piper paths and default voices
+- `tts_lexicon.json`: German label overrides for spoken output
+- `requirements-tts.txt`: Python package pin for Piper
+
+Current default voices:
+
+- German: `de_DE-thorsten-medium`
+- English: `en_US-lessac-medium`
+
+The default config assumes the shared workspace setup:
+
+- Piper Python: `../../../.venvs/piper/bin/python`
+- Voice directory: `../../../voices/piper`
+
+Override these with environment variables when needed:
+
+```bash
+export FEEDING_LEHMANNS_PIPER_PYTHON=/absolute/path/to/python
+export FEEDING_LEHMANNS_PIPER_VOICE_DIR=/absolute/path/to/voices
+```
+
+Examples:
+
+```bash
+python3 dinner/tts_generate.py --language de --print-text meal-plan
+python3 dinner/tts_generate.py --language en shopping-list
+python3 dinner/tts_generate.py --language de dish halloumi-wraps --include-optional
+python3 dinner/tts_generate.py --language de text "Hallo, hier kommt das Abendessen."
+```
+
+Outputs go to `dinner/generated_audio/` by default as Ogg/Opus files, which work well for chat voice messages.
+
+If a configured voice is missing, the script tells you the exact `piper.download_voices` command to run.
+
 ## Optional Knuspr Metadata
 
 Dish files may add an optional `knuspr` object per ingredient to store shopping hints.

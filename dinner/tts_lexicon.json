@@ -1,0 +1,80 @@
+{
+  "dish_titles": {
+    "de": {
+      "Halloumi Wraps": "Halloumi Wraps",
+      "Maultaschen Pan with Egg": "Maultaschenpfanne mit Ei",
+      "Pasta with Tomato Sauce": "Nudeln mit Tomatensauce",
+      "Avocado Pasta": "Avocado Pasta",
+      "Gnocchi with Pesto": "Gnocchi mit Pesto",
+      "Mashed Potatoes with Mushrooms": "Kartoffelbrei mit Champignons",
+      "Pancakes": "Pfannkuchen",
+      "Potatoes with Quark": "Kartoffeln mit Quark",
+      "Rice with Sauce": "Reis mit Sauce",
+      "Roasted Vegetables with Feta": "Ofengemüse mit Feta",
+      "Shakshuka": "Shakshuka",
+      "Spaetzle with Egg and Cheese": "Spätzle mit Ei und Käse",
+      "Tortellini with Pesto": "Tortellini mit Pesto",
+      "Vegetable Sticks with Mashed Potatoes": "Gemüsestäbchen mit Kartoffelbrei"
+    }
+  },
+  "dish_notes": {
+    "de": {
+      "Halloumi Wraps": "Nimm eine 200 Gramm Packung Halloumi. Wenn die Sauce Joghurt ist, dann griechischen Naturjoghurt und keine fertige Joghurtsauce.",
+      "Maultaschen Pan with Egg": "Zwölf Maultaschen entsprechen zwei Packungen. Champignons und frische Kräuter sind optional.",
+      "Pasta with Tomato Sauce": "Es wird eine Dose fertige Tomatensauce verwendet. Zwiebeln und Knoblauch sind nicht nötig.",
+      "Avocado Pasta": "Parmesan ist hier eine Hauptzutat und kein optionales Topping.",
+      "Gnocchi with Pesto": "Ein Glas Pesto reicht für dieses Gericht. Parmesan gilt als vorhanden.",
+      "Mashed Potatoes with Mushrooms": "Milch und Butter gelten als vorhanden.",
+      "Pancakes": "Äpfel sind optional.",
+      "Potatoes with Quark": "Frische Kräuter sind optional.",
+      "Rice with Sauce": "Verwendet ein Glas dmBio Thai Curry Sauce von dm.",
+      "Roasted Vegetables with Feta": "Keine Zwiebeln. Champignons und Kürbis sind optional.",
+      "Shakshuka": "Tomatenmark ist erforderlich.",
+      "Spaetzle with Egg and Cheese": "Champignons und frische Kräuter sind optionale Ergänzungen.",
+      "Tortellini with Pesto": "Ein Glas Pesto reicht für dieses Gericht. Parmesan gilt als vorhanden.",
+      "Vegetable Sticks with Mashed Potatoes": "Verwendet eine Packung Kartoffelpüreepulver und keine frischen Kartoffeln."
+    }
+  },
+  "ingredient_names": {
+    "de": {
+      "tortilla wrap": "Tortilla Wraps",
+      "halloumi": "Halloumi",
+      "lettuce": "Salat",
+      "cucumber": "Gurke",
+      "tomato": "Tomaten",
+      "greek yogurt or hummus": "griechischer Naturjoghurt oder Hummus",
+      "maultaschen": "Maultaschen",
+      "egg": "Eier",
+      "pasta": "Nudeln",
+      "tomato sauce": "Tomatensauce",
+      "mushroom": "Champignons",
+      "fresh herbs": "frische Kräuter",
+      "avocado": "Avocado",
+      "lemon": "Zitrone",
+      "garlic": "Knoblauch",
+      "parmesan": "Parmesan",
+      "gnocchi": "Gnocchi",
+      "pesto": "Pesto",
+      "potato": "Kartoffeln",
+      "flour": "Mehl",
+      "milk": "Milch",
+      "apple": "Äpfel",
+      "quark": "Quark",
+      "rice": "Reis",
+      "dmBio Thai curry sauce": "dmBio Thai Curry Sauce",
+      "zucchini": "Zucchini",
+      "bell pepper": "Paprika",
+      "feta": "Feta",
+      "pumpkin": "Kürbis",
+      "canned tomatoes": "Dosentomaten",
+      "yellow onion": "Zwiebel",
+      "bread": "Brot",
+      "tomato paste": "Tomatenmark",
+      "spaetzle": "Spätzle",
+      "grated cheese": "geriebener Käse",
+      "tortellini": "Tortellini",
+      "vegetable sticks": "Gemüsestäbchen",
+      "mashed potato powder": "Kartoffelpüreepulver"
+    }
+  }
+}

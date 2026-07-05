@@ -1,0 +1,8 @@
+{
+  "python_bin": "../../../.venvs/piper/bin/python",
+  "voice_dir": "../../../voices/piper",
+  "voices": {
+    "de": "de_DE-thorsten-medium",
+    "en": "en_US-lessac-medium"
+  }
+}
