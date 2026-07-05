@@ -3,10 +3,11 @@
 This folder stores trusted dinner data as one JSON file per dish.
 
 Put dishes in `dishes/`.
+Keep the currently agreed weekly plan in `meal-plan.md`.
 
 Suggested rule:
 
-The AI agent may plan meals and format messages, but ingredient facts should come from these JSON files.
+The AI agent may plan meals and format messages, but ingredient facts should come from these JSON files and the agreed weekly sequence should come from `meal-plan.md`.
 
 ## Dish File Shape
 
