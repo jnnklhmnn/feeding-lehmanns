@@ -4,7 +4,7 @@ This folder stores trusted dinner data as one JSON file per dish.
 
 Put dishes in `dishes/`.
 Keep the currently agreed weekly plan in `meal-plan.md`.
-Keep the long-term dinner history in `history.md`.
+Keep the simple dinner log in `history.md`.
 
 Suggested rule:
 
@@ -13,7 +13,18 @@ The AI agent may plan meals and format messages, but ingredient facts should com
 ## Planning Files
 
 - `meal-plan.md`: current agreed plan with concrete calendar dates
-- `history.md`: append-only dinner history for looking back at what was cooked and when
+- `history.md`: simple append-only dinner log for looking back at what was cooked and when
+- `sync_history.py`: append missing planned dinners from `meal-plan.md` into `history.md`
+
+## Sync Rule
+
+After changing `meal-plan.md`, run:
+
+```bash
+python3 dinner/sync_history.py
+```
+
+This keeps `history.md` in sync without making the log schema complicated.
 
 ## Dish File Shape
 

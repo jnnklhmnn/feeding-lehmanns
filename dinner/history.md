@@ -1,6 +1,6 @@
 # Dinner History
 
-This file is the append-only log for what the family actually planned or ate.
+This file is the simple append-only log for what the family planned or ate.
 
 Use it to answer questions like:
 
@@ -12,11 +12,10 @@ Rules:
 
 - Append new rows instead of rewriting old ones.
 - Prefer real dates in `YYYY-MM-DD`.
-- `source` should point to the dish JSON when possible.
-- `status` can be `planned`, `cooked`, `skipped`, or `changed`.
+- Keep it simple.
 
-| Date | Day | Dish | Status | Source | Notes |
-| --- | --- | --- | --- | --- | --- |
-| 2026-07-06 | Monday | Halloumi Wraps | planned | `halloumi-wraps.json` | Imported from current meal plan |
-| 2026-07-07 | Tuesday | Maultaschen | planned | `maultaschen-pan-with-egg.json` | Imported from current meal plan |
-| 2026-07-08 | Wednesday | Pasta with Tomato Sauce | planned | `pasta-with-tomato-sauce.json` | Imported from current meal plan |
+| Date | Dish | Note |
+| --- | --- | --- |
+| 2026-07-06 | Halloumi Wraps | planned |
+| 2026-07-07 | Maultaschen | planned |
+| 2026-07-08 | Pasta with Tomato Sauce | planned |
