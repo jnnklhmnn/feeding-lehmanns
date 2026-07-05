@@ -1,0 +1,42 @@
+{
+  "id": "maultaschen_pan_with_egg",
+  "title": "Maultaschen Pan with Egg",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 2,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "maultaschen",
+      "name": "maultaschen",
+      "amount": 12,
+      "unit": "piece"
+    },
+    {
+      "id": "egg",
+      "name": "egg",
+      "amount": 4,
+      "unit": "piece"
+    }
+  ],
+  "optional_ingredients": [
+    {
+      "id": "mushroom",
+      "name": "mushroom",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "id": "fresh_herbs",
+      "name": "fresh herbs",
+      "amount": 1,
+      "unit": "bunch"
+    }
+  ],
+  "tags": [
+    "weekday",
+    "pan",
+    "leftovers"
+  ],
+  "notes": "12 Maultaschen equals 2 packs. Mushrooms and fresh herbs are optional."
+}

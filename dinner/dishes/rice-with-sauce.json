@@ -1,0 +1,27 @@
+{
+  "id": "rice_with_sauce",
+  "title": "Rice with Sauce",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 2,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "rice",
+      "name": "rice",
+      "amount": 350,
+      "unit": "g"
+    },
+    {
+      "id": "dmbio_thai_curry_sauce",
+      "name": "dmBio Thai curry sauce",
+      "amount": 1,
+      "unit": "jar",
+      "url": "https://www.dm.de/p/d/1488554/dmbio-currysosse-thai"
+    }
+  ],
+  "tags": [
+    "weekday"
+  ],
+  "notes": "Uses one jar of dmBio Thai curry sauce from DM."
+}

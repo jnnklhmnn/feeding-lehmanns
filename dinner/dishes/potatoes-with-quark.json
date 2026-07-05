@@ -1,0 +1,35 @@
+{
+  "id": "potatoes_with_quark",
+  "title": "Potatoes with Quark",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 3,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "potato",
+      "name": "potato",
+      "amount": 1200,
+      "unit": "g"
+    },
+    {
+      "id": "quark",
+      "name": "quark",
+      "amount": 500,
+      "unit": "g"
+    }
+  ],
+  "optional_ingredients": [
+    {
+      "id": "fresh_herbs",
+      "name": "fresh herbs",
+      "amount": 1,
+      "unit": "bunch"
+    }
+  ],
+  "tags": [
+    "weekday",
+    "vegetarian"
+  ],
+  "notes": "Fresh herbs are optional."
+}

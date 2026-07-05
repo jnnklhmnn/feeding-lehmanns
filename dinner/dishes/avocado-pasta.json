@@ -1,0 +1,46 @@
+{
+  "id": "avocado_pasta",
+  "title": "Avocado Pasta",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 2,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "pasta",
+      "name": "pasta",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "id": "avocado",
+      "name": "avocado",
+      "amount": 2,
+      "unit": "piece"
+    },
+    {
+      "id": "lemon",
+      "name": "lemon",
+      "amount": 1,
+      "unit": "piece"
+    },
+    {
+      "id": "garlic",
+      "name": "garlic",
+      "amount": 1,
+      "unit": "clove"
+    },
+    {
+      "id": "parmesan",
+      "name": "parmesan",
+      "amount": 50,
+      "unit": "g"
+    }
+  ],
+  "tags": [
+    "weekday",
+    "quick",
+    "vegetarian"
+  ],
+  "notes": "Parmesan is a main ingredient here, not an optional topping."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "gnocchi_with_pesto",
+  "title": "Gnocchi with Pesto",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 1,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "gnocchi",
+      "name": "gnocchi",
+      "amount": 800,
+      "unit": "g"
+    },
+    {
+      "id": "pesto",
+      "name": "pesto",
+      "amount": 190,
+      "unit": "g"
+    }
+  ],
+  "tags": [
+    "weekday",
+    "quick",
+    "vegetarian"
+  ],
+  "notes": "One jar of pesto is enough for this dish. Parmesan is treated as always available."
+}

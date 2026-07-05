@@ -1,0 +1,42 @@
+{
+  "id": "pancakes",
+  "title": "Pancakes",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 3,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "flour",
+      "name": "flour",
+      "amount": 300,
+      "unit": "g"
+    },
+    {
+      "id": "milk",
+      "name": "milk",
+      "amount": 500,
+      "unit": "ml"
+    },
+    {
+      "id": "egg",
+      "name": "egg",
+      "amount": 4,
+      "unit": "piece"
+    }
+  ],
+  "optional_ingredients": [
+    {
+      "id": "apple",
+      "name": "apple",
+      "amount": 4,
+      "unit": "piece"
+    }
+  ],
+  "tags": [
+    "weekday",
+    "vegetarian",
+    "pan"
+  ],
+  "notes": "Apples are optional."
+}

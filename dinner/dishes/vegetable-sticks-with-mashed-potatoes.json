@@ -1,0 +1,28 @@
+{
+  "id": "vegetable_sticks_with_mashed_potatoes",
+  "title": "Vegetable Sticks with Mashed Potatoes",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 2,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "vegetable_sticks",
+      "name": "vegetable sticks",
+      "amount": 600,
+      "unit": "g"
+    },
+    {
+      "id": "mashed_potato_powder",
+      "name": "mashed potato powder",
+      "amount": 1,
+      "unit": "box"
+    }
+  ],
+  "tags": [
+    "weekday",
+    "kid_friendly",
+    "vegetarian"
+  ],
+  "notes": "Uses one box of mashed potato powder, not fresh potatoes."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "shakshuka",
+  "title": "Shakshuka",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 3,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "egg",
+      "name": "egg",
+      "amount": 5,
+      "unit": "piece"
+    },
+    {
+      "id": "canned_tomatoes",
+      "name": "canned tomatoes",
+      "amount": 800,
+      "unit": "g"
+    },
+    {
+      "id": "bell_pepper",
+      "name": "bell pepper",
+      "amount": 2,
+      "unit": "piece"
+    },
+    {
+      "id": "yellow_onion",
+      "name": "yellow onion",
+      "amount": 1,
+      "unit": "piece"
+    },
+    {
+      "id": "garlic",
+      "name": "garlic",
+      "amount": 2,
+      "unit": "clove"
+    },
+    {
+      "id": "bread",
+      "name": "bread",
+      "amount": 1,
+      "unit": "loaf"
+    },
+    {
+      "id": "tomato_paste",
+      "name": "tomato paste",
+      "amount": 1,
+      "unit": "tube"
+    }
+  ],
+  "tags": [
+    "pan",
+    "vegetarian"
+  ],
+  "notes": "Tomato paste is required."
+}

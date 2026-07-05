@@ -1,0 +1,52 @@
+{
+  "id": "halloumi_wraps",
+  "title": "Halloumi Wraps",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 3,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "tortilla_wrap",
+      "name": "tortilla wrap",
+      "amount": 8,
+      "unit": "piece"
+    },
+    {
+      "id": "halloumi",
+      "name": "halloumi",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "id": "lettuce",
+      "name": "lettuce",
+      "amount": 1,
+      "unit": "head"
+    },
+    {
+      "id": "cucumber",
+      "name": "cucumber",
+      "amount": 1,
+      "unit": "piece"
+    },
+    {
+      "id": "tomato",
+      "name": "tomato",
+      "amount": 3,
+      "unit": "piece"
+    },
+    {
+      "id": "wrap_sauce",
+      "name": "yogurt sauce or hummus",
+      "amount": 200,
+      "unit": "g"
+    }
+  ],
+  "tags": [
+    "weekday",
+    "vegetarian",
+    "assemble"
+  ],
+  "notes": "Use one 200 g pack of halloumi. Sauce can be yogurt sauce or hummus."
+}

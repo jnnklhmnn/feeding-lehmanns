@@ -1,0 +1,28 @@
+{
+  "id": "pasta_with_tomato_sauce",
+  "title": "Pasta with Tomato Sauce",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 1,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "pasta",
+      "name": "pasta",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "id": "tomato_sauce",
+      "name": "tomato sauce",
+      "amount": 1,
+      "unit": "can"
+    }
+  ],
+  "tags": [
+    "weekday",
+    "kid_friendly",
+    "vegetarian"
+  ],
+  "notes": "Uses one can of prepared tomato sauce. No separate onion or garlic needed."
+}

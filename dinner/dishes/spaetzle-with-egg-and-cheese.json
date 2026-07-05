@@ -1,0 +1,48 @@
+{
+  "id": "spaetzle_with_egg_and_cheese",
+  "title": "Spaetzle with Egg and Cheese",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 2,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "spaetzle",
+      "name": "spaetzle",
+      "amount": 800,
+      "unit": "g"
+    },
+    {
+      "id": "egg",
+      "name": "egg",
+      "amount": 4,
+      "unit": "piece"
+    },
+    {
+      "id": "grated_cheese",
+      "name": "grated cheese",
+      "amount": 200,
+      "unit": "g"
+    }
+  ],
+  "optional_ingredients": [
+    {
+      "id": "mushroom",
+      "name": "mushroom",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "id": "fresh_herbs",
+      "name": "fresh herbs",
+      "amount": 1,
+      "unit": "bunch"
+    }
+  ],
+  "tags": [
+    "weekday",
+    "pan",
+    "vegetarian"
+  ],
+  "notes": "Mushrooms and fresh herbs are optional additions."
+}

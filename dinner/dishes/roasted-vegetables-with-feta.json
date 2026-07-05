@@ -1,0 +1,53 @@
+{
+  "id": "roasted_vegetables_with_feta",
+  "title": "Roasted Vegetables with Feta",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 3,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "potato",
+      "name": "potato",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "id": "zucchini",
+      "name": "zucchini",
+      "amount": 2,
+      "unit": "piece"
+    },
+    {
+      "id": "bell_pepper",
+      "name": "bell pepper",
+      "amount": 3,
+      "unit": "piece"
+    },
+    {
+      "id": "feta",
+      "name": "feta",
+      "amount": 150,
+      "unit": "g"
+    }
+  ],
+  "optional_ingredients": [
+    {
+      "id": "mushroom",
+      "name": "mushroom",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "id": "pumpkin",
+      "name": "pumpkin",
+      "amount": 1,
+      "unit": "piece"
+    }
+  ],
+  "tags": [
+    "oven",
+    "vegetarian"
+  ],
+  "notes": "No onion. Mushrooms and pumpkin are optional."
+}

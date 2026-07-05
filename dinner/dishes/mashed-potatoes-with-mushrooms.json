@@ -1,0 +1,27 @@
+{
+  "id": "mashed_potatoes_with_mushrooms",
+  "title": "Mashed Potatoes with Mushrooms",
+  "status": "trusted",
+  "needs_review": false,
+  "time_rating": 3,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "potato",
+      "name": "potato",
+      "amount": 1200,
+      "unit": "g"
+    },
+    {
+      "id": "mushroom",
+      "name": "mushroom",
+      "amount": 500,
+      "unit": "g"
+    }
+  ],
+  "tags": [
+    "weekday",
+    "vegetarian"
+  ],
+  "notes": "Milk and butter are treated as always available."
+}
