@@ -1,0 +1,41 @@
+{
+  "id": "gnocchi_bake",
+  "title": "Gnocchi Bake",
+  "status": "draft",
+  "needs_review": true,
+  "time_rating": 2,
+  "servings": 4,
+  "ingredients": [
+    {
+      "id": "gnocchi",
+      "name": "gnocchi",
+      "amount": 800,
+      "unit": "g"
+    },
+    {
+      "id": "cherry_tomatoes",
+      "name": "cherry tomatoes",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "id": "tomato_sauce",
+      "name": "tomato sauce",
+      "amount": 1,
+      "unit": "jar"
+    },
+    {
+      "id": "mozzarella",
+      "name": "mozzarella",
+      "amount": 125,
+      "unit": "g"
+    }
+  ],
+  "optional_ingredients": [],
+  "tags": [
+    "weekday",
+    "kid_friendly",
+    "vegetarian"
+  ],
+  "notes": "Bake gnocchi, cherry tomatoes, tomato sauce, and mozzarella together in an oven dish. Ingredient amounts should be reviewed after the first cooked version."
+}
